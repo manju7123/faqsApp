@@ -1,0 +1,36 @@
+.list-card {
+  list-style-type: none;
+  border-radius: 24px;
+  border: 1px solid #d7dae6;
+  box-shadow: 0px 4px 16px 0px #bfbfbf;
+  width: 100%;
+  padding: 30px;
+  margin-bottom: 20px;
+}
+.button-card {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.question {
+  font-size: 24px;
+  font-family: 'Roboto';
+  font-weight: bolder;
+  color: #52606d;
+}
+.btn {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  outline: none;
+}
+.line {
+  color: #e4e7eb;
+}
+.answer {
+  font-size: 14px;
+  font-family: 'Roboto';
+  font-weight: bolder;
+  color: #9aa5b1;
+}
